@@ -5,8 +5,8 @@ module.exports = {
       name: `Bharadwaj K R`,
       summary: `who lives in Bangalore and crazy about whats happening around the tech world.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `A blog to keep myself engaged`,
+    siteUrl: `https://yajamankrblog.netlify.app/`,
     social: {
       twitter: `BharadwajKR5`,
     },
