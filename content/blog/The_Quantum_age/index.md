@@ -3,7 +3,7 @@ title: The Quantum Age
 date: "2020-05-06T23:16:00.284Z"
 description: "The Quantum Technology Which has made the worlds eyes to shift towords this new tech."
 ---
-
+![](./quantum-computer.jpg)
 
 Hello guys ,I'm glad that i'm writing again .
 
