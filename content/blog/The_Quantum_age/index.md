@@ -57,7 +57,7 @@ Its sounds like wierd and like magic though the physicsist still don't fully und
 
 Quantum computer are not just only fast they are unbelievable,they can do the things that we didn't even dreamt of .They will hold the potentials in genomics to finance .
 Most promising applicatioin is simulating the behaviour of matter .
-They have the potential to accelerate the developement of artificial intelegence,Medical and can bee usefull in cyber security .They have th ability to break the code and encrypt electronical communications .
+They have the potential to accelerate the developement of artificial intelegence,Medical and can bee usefull in cyber security .They have the ability to break the code and encrypt electronical communications .
 Some of the biggest player in the tech are alredy investing in this new tech.
 
 
