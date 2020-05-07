@@ -33,7 +33,7 @@ Our nature doesn't work the way we wish or we thought of our entire universe is 
 
 
 Thats because over the last century dozens of scientist made a lot of contribution to this new technology. What they observed is when you go deep in to the matter or when you start to observe into the small scale of this universe which means matter , weird things start to happen . So they started to develope a whole new theory which discribes these kind of wierdness in the nature,it led to start of this quantum technology. One I would like to remember is Max plank .The father of quantum theory/ quantum physics.
-#### We can't predict the future our life is full of posibilities right so does the quantum technology .
+#### We can't predict the future ,our life is full of possibilities right so does the quantum technology .
 
 ## What is quantum computer and how does it works?
 
