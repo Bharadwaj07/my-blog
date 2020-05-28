@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Bharadwaj 's Not-So-Secret Diary`,
+    title: `World Overload`,
     author: {
       name: `Bharadwaj K R`,
       summary: `who lives in Bangalore and crazy about whats happening around the tech world.`,
